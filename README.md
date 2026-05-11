@@ -1,2 +1,2 @@
 # task-api-laravel
-this is my first laravel project. its include login-registration and Task create-update,delete
+This is my first Laravel project. This includes login, registration, and task creation, update, and deletion
